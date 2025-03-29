@@ -46,10 +46,10 @@
 
 
 ## GitHub Stats
-[![Yanendra's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
-[![Yanendra's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
-[![Yanendra Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
-[![Yanendra Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
+[![Yanendra's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&hide_border=true&rank_icon=github&show_icons=true&hide_title=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
+[![Yanendra's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
+[![Yanendra Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&layout=compact&hide_title=true&hide_border=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
+[![Yanendra Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&layout=compact&hide_border=true&hide_title=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
 
 
 
