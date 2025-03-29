@@ -48,12 +48,15 @@
 ## GitHub Stats
 [![Yanendra's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&hide_border=true&rank_icon=github&show_icons=true&hide_title=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
 [![Yanendra's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yanendrajha&hide=stars&hide_border=true&hide_title=true&rank_icon=github&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
-[![Yanendra Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&layout=compact&hide_title=true&hide_border=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
+[![Yanendra Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&hide_title=true&hide_border=true&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-dark-mode-only)
 [![Yanendra Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanendrajha&layout=compact&hide_border=true&hide_title=true&theme=buefy#gh-light-mode-only)](https://github.com/yanendrajha/github-readme-stats#gh-light-mode-only)
 
 
 
 ## 🌍 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&borderRadius=8)](https://linkedin.com/in/yanendrajha) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&borderRadius=8)](https://github.com/Yanendrajha) [![Coding Profile](https://img.shields.io/badge/Coding%20Profile-lavender?style=flat&logo=web&borderRadius=8)](https://codolio.com/profile/Yanendra_jha) [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail&borderRadius=8)](mailto:Yanendrajha37@gmail.com)  
+
+### Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&borderRadius=8)](https://linkedin.com/in/yanendrajha) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&borderRadius=8)](https://github.com/Yanendrajha) [![Coding Profile](https://img.shields.io/badge/Leetcode-lavender?style=flat&logo=web&borderRadius=8)](https://codolio.com/profile/Yanendra_jha) [![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail&borderRadius=8)](mailto:Yanendrajha37@gmail.com)  
 
 🔥 *Always exploring
