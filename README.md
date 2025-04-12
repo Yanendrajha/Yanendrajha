@@ -15,6 +15,7 @@
 **Languages & Frameworks:**  
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&borderRadius=8) 
+![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white&borderRadius=8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&borderRadius=8) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white&borderRadius=8) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&borderRadius=8) 
